@@ -24,7 +24,7 @@ Currently the database is deployed and hosted but there is no link between it an
 ![image](https://i.imgur.com/l5JFkEu.jpg)
 
 - final erd for simulation
-![image](https://i.imgur.com/KXxOvms.png)
+![image](https://i.imgur.com/rNycnCk.png)
 
 - flow chart for simulation
 ![image](https://i.imgur.com/8fWoESF.jpg)
