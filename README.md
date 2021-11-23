@@ -20,15 +20,18 @@ Currently the database is deployed and hosted but there is no link between it an
 
 ## Screenshots:
 
-![image](https://i.imgur.com/l5JFkEu.jpg)
 - idea for how the data should be stored once in json
+![image](https://i.imgur.com/l5JFkEu.jpg)
 
-![image](https://i.imgur.com/KXxOvms.png)
 - final erd for simulation
+![image](https://i.imgur.com/KXxOvms.png)
 
-
-![image](https://i.imgur.com/8fWoESF.jpg)
 - flow chart for simulation
+![image](https://i.imgur.com/8fWoESF.jpg)
+
+-Simulation run 
+![image](https://i.imgur.com/4fq2NRx.png)
+
 
 ## Getting Started:
 - currently the data is full CRUD but no way to automate the postings.
