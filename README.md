@@ -7,7 +7,7 @@ Currently the database is deployed and hosted but there is no link between it an
 
 ## Technologies Used:
 
-- HTML
+- SimPy
 - JavaScript
 - JSON
 - Python
