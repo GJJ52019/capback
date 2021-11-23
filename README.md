@@ -87,11 +87,11 @@ Simpy is a python module that allows the use of environmnets to run basic simula
 
 ## Yield vs Return
 
-    Using generator functions instead of regular python fuctions is key to the simulator. Yield allows the function to be called numerous times from where it left off the last time is was called. Where as return will cause the funtion to reset when called again destroying previous results
+Using generator functions instead of regular python fuctions is key to the simulator. Yield allows the function to be called numerous times from where it left off the last time is was called. Where as return will cause the funtion to reset when called again destroying previous results
 
 ## Using a global keyword
 
-    I don't think this is best practice but until I understand simPY and python better I am forced to store the data generated in a global variable using the global keyword.
+ I don't think this is best practice but until I understand simPY and python better I am forced to store the data generated in a global variable using the global keyword.
 
 ## Monitoring
 This is the elusive key along with various other technologies needed in theory to get the simualtion to post to the database. Simpy includes a few ways to monitor the simulation as it goes along however they invlove the use of "args" and "Kwargs" from functools import partial, wraps. This end up being outside of the scope of current capabilities but will come back to it.
